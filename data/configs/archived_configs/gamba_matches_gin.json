@@ -1,0 +1,19 @@
+{
+    "device": 0,
+    "model":"gamba",
+    "readout": "add",
+    "data":"PROTEINS",
+    "epochs":200,
+    "batch_size":32,
+    "laplacePE":2,
+    "hidden_channel":64,
+    "learning_rate": 4e-4,
+    "num_virtual_tokens": 10,
+    "scheduler": "Plateau",
+    "dropout":0,
+    "seed":0,
+    "verbose": false,
+    "simon_gaa": false,
+    "wandb": false,
+    "name": "gamba_matching_gin"
+}
