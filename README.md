@@ -1,6 +1,6 @@
 # 🦐 Gamba: Scalable Attention Based Graph-to-Sequence Modeling
 
-Group project for the course _Deep Learning (263-3210-00L)_ at ETH Zurich.
+Group project (Robert Veres, Ben Bullinger, Adam Suma, Simon Storf) for the course _Deep Learning (263-3210-00L)_ at ETH Zurich.
 ___
 
 The pdf for the whole report/paper will be there
